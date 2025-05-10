@@ -126,7 +126,7 @@
 - [AWS EC2](https://aws.amazon.com/cn/)香港、日本或韩国申请个免费试用一年的EC2 VPS （支持银联卡）
 - [Linode](https://www.linode.com)买个一月USD5刀的VPS
 - [Vultr](https://www.vultr.com?ref=7609494)上买一个日本的VPS，一个月5刀 - 6刀 （可以支付宝）
-
+- [66云](https://666clouds.com/clientarea.php) 上买一个英国、香港、美国、日本、韩国的VPS
 
 > **Note**
 >
