@@ -123,10 +123,13 @@
 - [Google Cloud Platform](https://cloud.google.com/)提供免费试用，赠送300刀赠金（需要国际信用卡）
 - [Oracle Cloud](https://www.oracle.com/cloud/free/)两台VPS无限期使用，可选美日韩等地（需要国际信用卡）
 - [RackNerd](https://my.racknerd.com/aff.php?aff=1134)，价格在一年 10 刀-20 刀（如下所示）。支持支付宝、银联。购买的时候，有个 Location 选项，可以选择机房位置，后面有相应的 IP，你可以测试一下 ping 值，选择最低的那个。
+  - [最经济的选择](https://my.racknerd.com/cart.php?a=confproduct&i=1)
 - [AWS EC2](https://aws.amazon.com/cn/)香港、日本或韩国申请个免费试用一年的EC2 VPS （支持银联卡）
 - [Linode](https://www.linode.com)买个一月USD5刀的VPS
 - [Vultr](https://www.vultr.com?ref=7609494)上买一个日本的VPS，一个月5刀 - 6刀 （可以支付宝）
 - [66云](https://666clouds.com/clientarea.php) 上买一个英国、香港、美国、日本、韩国的VPS
+- [WePC](https://wepc.au/index.php) VPS
+- [v.ps](https://v.ps/pricing/) VPS
 
 > **Note**
 >
