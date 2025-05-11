@@ -130,6 +130,7 @@
 - [66云](https://666clouds.com/clientarea.php) 上买一个英国、香港、美国、日本、韩国的VPS
 - [WePC](https://wepc.au/index.php) VPS
 - [v.ps](https://v.ps/pricing/) VPS
+- [bytevirt](bytevirt.com) ByteVirt
 
 > **Note**
 >
