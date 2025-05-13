@@ -131,6 +131,7 @@
 - [WePC](https://wepc.au/index.php) VPS
 - [v.ps](https://v.ps/pricing/) VPS
 - [bytevirt](bytevirt.com) ByteVirt
+- [JuHost](https://juhost.com/) 香港、日本的节点
 
 > **Note**
 >
