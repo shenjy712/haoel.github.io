@@ -133,6 +133,7 @@
 - [bytevirt](bytevirt.com) ByteVirt
 - [JuHost](https://juhost.com/) 香港、日本的节点
 - [ACCKCloud](https://acck.io/) 有香港、台湾、日本的节点
+- [DeepNote](https://deepnote.com/)
 
 > **Note**
 >
@@ -1480,6 +1481,12 @@ docker run --rm curlimages/curl --connect-timeout 2 -x "socks5://172.17.0.2:4000
 -  [Ubuntu 18.04 Installation Script](https://github.com/haoel/haoel.github.io/blob/master/scripts/install.ubuntu.18.04.sh)
 
 **注意：这个脚本可能年久失修，不一定能用，但是可以参考，如果有问题，可以提交 PR**。
+
+此外，除了上面的脚本，还可以使用[3x-ui](https://github.com/MHSanaei/3x-ui)这个开源的脚本搭建, 还可以使用 Hysteria2 来搭建，脚本如下：
+
+```sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
+```
 
 欢迎补充和改善！
 
