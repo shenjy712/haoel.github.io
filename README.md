@@ -130,7 +130,7 @@
 - [66云](https://666clouds.com/clientarea.php) 上买一个英国、香港、美国、日本、韩国的VPS
 - [WePC](https://wepc.au/index.php) VPS
 - [v.ps](https://v.ps/pricing/) VPS
-- [bytevirt](bytevirt.com) ByteVirt
+- [bytevirt](https://bytevirt.com) ByteVirt
 - [JuHost](https://juhost.com/) 香港、日本的节点
 - [ACCKCloud](https://acck.io/) 有香港、台湾、日本的节点
 - [DeepNote](https://deepnote.com/) DeepNote
@@ -1490,6 +1490,11 @@ docker run --rm curlimages/curl --connect-timeout 2 -x "socks5://172.17.0.2:4000
 ```sh
 wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
 ```
+
+还有下面几款软件：
+
+- https://github.com/alireza0/s-ui
+- https://github.com/jonssonyan/h-ui
 
 欢迎补充和改善！
 
