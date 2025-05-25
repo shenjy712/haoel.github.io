@@ -133,7 +133,10 @@
 - [bytevirt](bytevirt.com) ByteVirt
 - [JuHost](https://juhost.com/) 香港、日本的节点
 - [ACCKCloud](https://acck.io/) 有香港、台湾、日本的节点
-- [DeepNote](https://deepnote.com/)
+- [DeepNote](https://deepnote.com/) DeepNote
+- [niihost](https://my.niihost.com/) niihost
+- [独角鲸VPS](https://fuckip.me/)
+- [云悠](https://yunyoo.cc/)
 
 > **Note**
 >
