@@ -137,6 +137,7 @@
 - [niihost](https://my.niihost.com/) niihost
 - [独角鲸VPS](https://fuckip.me/)
 - [云悠](https://yunyoo.cc/)
+- [VPS收集](https://dh.kejilion.pro/)
 
 > **Note**
 >
