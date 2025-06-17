@@ -139,6 +139,7 @@
 - [云悠](https://yunyoo.cc/)
 - [VPS收集](https://dh.kejilion.pro/)
 - [tapcloud](https://tapcloud.me/login)
+- [evoxt](https://evoxt.com/)
 
 > **Note**
 >
