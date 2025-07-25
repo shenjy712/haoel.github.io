@@ -141,6 +141,7 @@
 - [tapcloud](https://tapcloud.me/login)
 - [evoxt](https://evoxt.com/)
 - [digvps](https://digvps.com/)
+- [cloudcone](https://cloudcone.com/)
 
 > **Note**
 >
