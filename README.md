@@ -142,6 +142,7 @@
 - [evoxt](https://evoxt.com/)
 - [digvps](https://digvps.com/)
 - [cloudcone](https://cloudcone.com/)
+- [VPS测评&购买](https://digvps.com/review)
 
 > **Note**
 >
